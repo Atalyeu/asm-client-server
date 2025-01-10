@@ -17,7 +17,7 @@ To build and run this project, you'll need:
 
 ### 1. **Clone the Repository** (or download the source code):
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Atalyeu/asm-client-server.git
    cd asm-client-server
 ```
 
